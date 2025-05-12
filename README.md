@@ -1,3 +1,5 @@
+> **Access the Arxiv Preprint (Extended Version with Additional Details & Experiments):** https://arxiv.org/abs/2505.04673
+
 # Overview
 
 **RevealVLLMSafetyEval** is a comprehensive pipeline for evaluating Vision-Language Models (VLMs) on their compliance with harm-related policies. It automates the creation of adversarial multi-turn datasets and the evaluation of model responses, supporting responsible AI development and red-teaming efforts.
